@@ -1,9 +1,5 @@
 # TP 1 : Exploration des Artefacts et Volatilité Système
 
-**Module :** Investigation Numérique – 5CIR
-**Enseignante :** Dr. Loubna CHAIBI
-**Étudiant(e) :** _Votre nom_
-**Date :** 20/10/2026
 
 ## Objectifs
 
